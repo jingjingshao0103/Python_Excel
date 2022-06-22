@@ -35,7 +35,7 @@ def check_only_spaces(cell_value):
     if len(cell_value)== 0: #empty
         return ('empty')
 
-path1 = '/Users/jingjingshao/OneDrive - ADWEKO Consulting GmbH/Excel_python/'
+path1 = '/Users/jingjingshao/OneDrive - *****/Excel_python/'
 filename = 'DataDefinition.xlsx'
 #sheetname = 'CreditRiskExposure'
 
